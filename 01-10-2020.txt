@@ -1,0 +1,6 @@
+TIL:
+- Installer Git
+- Creer un utilisateur (Git config --global...)
+- Initaitliser le dépot avec Git init ou par explorateur windows (il faudra quand meme faire git init)
+- faire un Git add pour ajouter les fichier que l'on veut commit
+- faire un Git commit pour commité les fichier
