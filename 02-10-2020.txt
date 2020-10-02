@@ -1,2 +1,3 @@
 TIL:
 - Créer un compte GiThub 
+- pour push local -> Remote il faut une synchro local d'abord
